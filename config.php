@@ -5,5 +5,5 @@
  * e.g. the host on which the J2EE APIs we'll be proxying are running
  * */
 $SETTING_ALLOWED_HOSTS = array(
-    'localhost','127.0.0.1', 'httpbin.org', 'www.google.com', 'www.youtube.com' # change to restrict list to only domains you wish to allow clients to call via this proxy
+    'localhost','127.0.0.1', 'httpbin.org', 'www.google.com', 'www.youtube.com', 'siastats.info' # change to restrict list to only domains you wish to allow clients to call via this proxy
 );
